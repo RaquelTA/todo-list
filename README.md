@@ -8,6 +8,7 @@ Este projeto é uma aplicação web de lista de tarefas (To-Do List). Ele foi co
 
 - **Thiago Natale** — RA: 5155797  
 - **Pedro Hilário** — RA: 5160251
+- **Raquel Targino** — RA: 5161943
 
 ---
 
